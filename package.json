@@ -10,6 +10,10 @@
   "dependencies": {
     "next": "10.0.7",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "reactn": "^2.2.7",
+    "reactn-devtools": "^1.1.0",
+    "shelljs": "^0.8.4",
+    "simple-git": "^2.36.2"
   }
 }
